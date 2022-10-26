@@ -1,2 +1,5 @@
-# DEWeek3-Friday
-Introduction to Power BI
+#About
+The project has Power BI dashboard for Karamoja Crop Yield: Introduction to Power BI
+
+#Contributor
+Linda Chebet
